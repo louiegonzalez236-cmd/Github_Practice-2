@@ -1,0 +1,17 @@
+git init
+git remote add origin https://github.com/Usmanxsaleem/123.git
+git add .
+git commit -m "commit message"
+git push -- set-upstream origin master
+===========================================================
+
+
+for updating
+
+git add .
+
+
+git commit -m "updated files"
+
+
+git push
